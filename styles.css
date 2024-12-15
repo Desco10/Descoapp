@@ -17,6 +17,7 @@ body, html {
     width: 90%; /* Ajusta el tamaño en pantallas pequeñas */
     cursor: pointer;
     transition: transform 0.3s ease, opacity 0.3s ease;
+    outline: none;
 }
 
 .share-container:hover {
